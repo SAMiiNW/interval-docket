@@ -1,0 +1,11 @@
+{
+  "network": "StudioNet",
+  "account": "SAMiiNW",
+  "contractAddress": "0x37350A86821678F8eA3623D2b56fd5E107DF2c5f",
+  "deploymentTransaction": "0x7580799e00b428cd140dc05bab149d36aa49d02a6abfe667a5b340a11aa0e14a",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "2db8562c7fad39f1348fb37ddba84470ded2b5228be27aa233d1a431a89753bc",
+  "sourceCommit": "58a642ebeb6125ce00bbcd38fbe0160ee0c98c23",
+  "repository": "https://github.com/SAMiiNW/interval-docket"
+}

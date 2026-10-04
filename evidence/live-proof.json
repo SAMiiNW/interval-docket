@@ -1,0 +1,66 @@
+{
+  "docketId": "DISPATCH-1791076325",
+  "transactions": {
+    "open": "0xb752ddf72bdb060675c33eb5fe0be56c3fab4f803e6f83c5d02712edef16bc9a",
+    "reconstruct": "0x260e86b08044379ee6248221ebcfdae763cd184e59e8a167b90a9da28f05b298"
+  },
+  "state": {
+    "auditor": "0x013A0745a3b2DbF87f4AB377266fCcb7e6eEC88A",
+    "citations": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    "digests": [
+      "09056cfeb3110ac6ec2ddc3888a9d50f860231fa529c464c67635b22b0a82680",
+      "1c9594e9eb06ac3eec9bfb6f5eca71f16a5f4cd318e0a9680b5c4c3f6164bb65"
+    ],
+    "events": [
+      "Notice issued",
+      "Operator response received",
+      "Approval recorded"
+    ],
+    "id": "DISPATCH-1791076325",
+    "intervals": [
+      [
+        739650,
+        739650
+      ],
+      [
+        739653,
+        739653
+      ],
+      [
+        739657,
+        739657
+      ]
+    ],
+    "owner": "0xCAFA30BF94D4fb01146588a1b7901BD85E7DbD0f",
+    "precedence_edges": [
+      [
+        0,
+        1
+      ],
+      [
+        1,
+        2
+      ]
+    ],
+    "sources": [
+      "https://raw.githubusercontent.com/SAMiiNW/interval-docket/58a642ebeb6125ce00bbcd38fbe0160ee0c98c23/evidence/dispatch-log.md",
+      "https://cdn.jsdelivr.net/gh/SAMiiNW/interval-docket@58a642ebeb6125ce00bbcd38fbe0160ee0c98c23/evidence/board-minutes.md"
+    ],
+    "state": "CONSISTENT",
+    "title": "Dispatch and approval chronology"
+  },
+  "walletDisclosure": "Both wallets and both evidence documents are operator-controlled technical fixtures."
+}

@@ -8,4 +8,4 @@
 | Every event has interval and citation | `_reconstruct` | consensus and attribution test | PASS |
 | Exact endpoints, citations, and digests reach consensus | comparative principle | exact field assertion | PASS |
 | Consistent, overlapping, and reversed order differ | `chronology_state` | outcome and multi-edge tests | PASS |
-| Reviewed source deployed and exercised on StudioNet | deployment evidence | added after network verification | UNVERIFIED |
+| Reviewed source deployed and exercised on StudioNet | deployment evidence | exact source match and live `CONSISTENT` docket | PASS |
